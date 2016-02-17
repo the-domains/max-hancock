@@ -1,0 +1,28 @@
+name: 'Max Hancock & Co.'
+favicon: null
+layout_spectrum: 0.13286482566036284
+typography_spectrum: 0.9694468236993998
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5528712249360979
+  lightness: 0.6161263121757656
+  saturation: 0.5036663564387709
+  rhythmicContrast: 0.5895087255630642
+purpose: []
