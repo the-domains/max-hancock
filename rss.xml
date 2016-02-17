@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Max Hancock & Co.]]></title>
+        <description><![CDATA[Max Hancock & Co.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 21:11:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drawings from my illustration journal. ]]></title>
+            <description><![CDATA[<article><h1>Drawings from my illustration journal. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f5f268116faff2eb875d94c6f31c855f8b450e9.png"></article>]]></description>
+            <link>undefineda81e2fb3-c217-44b2-b7b6-a466c2fe16a5/index.html</link>
+            <guid isPermaLink="false">a81e2fb3-c217-44b2-b7b6-a466c2fe16a5</guid>
+            <pubDate>Wed, 17 Feb 2016 21:11:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
