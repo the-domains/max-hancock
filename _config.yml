@@ -1,7 +1,7 @@
 name: Max Hancock & Co.
 favicon: null
-layout_spectrum: 0.07693
-typography_spectrum: 0.32977
+layout_spectrum: 0.2375970899593085
+typography_spectrum: 0.9465180290862918
 title: 'A journal of illustrations, art and ideas from Max Hancock & Company.'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#d9ae21'
-    - '#414141'
-    - '#8f8f8f'
-  brandStrength: 0.5528712249360979
-  lightness: 0.6161263121757656
-  saturation: 0.5036663564387709
-  rhythmicContrast: 0.5895087255630642
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.7838962567038834
+  lightness: 0.7929651101585478
+  saturation: 0.16710861981846392
+  rhythmicContrast: 0.013117911061272025
 purpose: []
